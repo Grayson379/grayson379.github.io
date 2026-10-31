@@ -15,11 +15,9 @@ website:
     
     # your sub-pages
     left:
-      - text: "Projects"
-        href: projects/index.qmd
-      - text: "Photography"
-        href: photography/index.qmd
-      - text: "CV"
+      - text: "Education"
+        href: Education/index.qmd
+      - text: "CV/Resume"
         href: cv/index.qmd
     
     # your social media handles
