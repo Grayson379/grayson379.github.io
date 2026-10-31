@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-excerpt: My current resume
+excerpt: My Current Resume
 execute:
   freeze: true  # never re-render during project render
 engine: knitr 
