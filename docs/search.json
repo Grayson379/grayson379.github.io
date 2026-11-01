@@ -7,25 +7,11 @@
     "text": "Download current resume"
   },
   {
-    "objectID": "Education/index.html",
-    "href": "Education/index.html",
+    "objectID": "Education/index.html#education",
+    "href": "Education/index.html#education",
     "title": "Education + Certifications",
-    "section": "",
-    "text": "2023 - Present"
-  },
-  {
-    "objectID": "Education/index.html#case-western-reserve-university",
-    "href": "Education/index.html#case-western-reserve-university",
-    "title": "Education + Certifications",
-    "section": "",
-    "text": "2023 - Present"
-  },
-  {
-    "objectID": "Education/index.html#lakeridge-high-school",
-    "href": "Education/index.html#lakeridge-high-school",
-    "title": "Education + Certifications",
-    "section": "Lakeridge High School",
-    "text": "Lakeridge High School\n\nLake Oswego, OR, 97034\n2019 - 2023"
+    "section": "Education",
+    "text": "Education\n\nCase Western Reserve University\n\nCleveland, OH, 44106\n2023 - Present\n\n\n\nLakeridge High School\n\nLake Oswego, OR, 97034\n2019 - 2023"
   },
   {
     "objectID": "Education/index.html#certifications",
