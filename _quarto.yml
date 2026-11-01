@@ -15,7 +15,7 @@ website:
     
     # your sub-pages
     left:
-      - text: "Education"
+      - text: "Education + Certifications"
         href: Education/index.qmd
       - text: "Resume"
         href: cv/index.qmd
@@ -38,11 +38,8 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169;
     center: |
-      <span class="faux-block"><a href=
     right: |
-      <span class="faux-block"><a href=
 
 project:
   type: website

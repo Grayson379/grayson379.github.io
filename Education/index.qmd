@@ -1,14 +1,25 @@
 ---
-title: Education
+title: Education + Certifications
 ---
 
 ## Case Western Reserve University
 ### Cleveland, OH, 44106
-2023-Present
+2023 - Present
 
 ----
 
 ## Lakeridge High School
 ### Lake Oswego, OR, 97034
-2019-2023
+2019 - 2023
 
+----
+
+## Certifications
+### CPR AHA Instructor
+2025 - Present
+
+### Emergency Medical Technician
+2024 - Present
+
+### Oregon State Seal of Biliteracy
+French & English
