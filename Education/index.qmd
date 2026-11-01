@@ -7,12 +7,12 @@ title: Education + Certifications
 ## Education 
 
 ### Case Western Reserve University
-Cleveland, OH, 44106
+Cleveland, OH, 44106\n
 2023 - Present
 
 
 ### Lakeridge High School
-Lake Oswego, OR, 97034
+Lake Oswego, OR, 97034\n
 2019 - 2023
 
 ----
@@ -26,4 +26,4 @@ Lake Oswego, OR, 97034
 2024 - Present
 
 ### Oregon State Seal of Biliteracy
-French & English
+French & English, 2023
