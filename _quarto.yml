@@ -3,7 +3,7 @@
 # website settings
 website:
   title: "Grayson Porter Shanks"                                # Your name
-  description: "I am a Case Western Reserve University undegraduate pursuing a Biochemistry B.S. with a mathematics minor."   # A brief slogan (optional)
+  description: "Grayson's Website!"   # A brief slogan (optional)
   image: IMG_3654.JPG
   
   favicon: IMG_2433.JPG
