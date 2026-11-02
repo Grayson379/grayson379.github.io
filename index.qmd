@@ -9,7 +9,7 @@ about:
       href: https://www.instagram.com/grayson_shanks_/
     - icon: linkedin
       text: LinkedIn
-      href: linkedin.com/in/grayson-shanks-107ab52a2
+      href: https://www.linkedin.com/in/grayson-shanks-107ab52a2
     - icon: link
       text: Levine Lab
       href: https://case.edu/medicine/pathology/faculty/alan-levine
